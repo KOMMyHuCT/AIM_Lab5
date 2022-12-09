@@ -1,4 +1,3 @@
-import numpy
 import pandas
 import matplotlib.pyplot as pyplot
 import pylab
